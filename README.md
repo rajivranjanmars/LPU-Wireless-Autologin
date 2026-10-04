@@ -66,3 +66,17 @@ Pull requests are always welcome. Feel free to add any new features or fix bugs 
 ```js
 var foo = "bar";
 ```
+
+## Repository overview
+
+Rust command-line utility for logging into LPU network captive portals with stored account profiles. This fork retains the upstream CLI and installation documentation below.
+
+## Local use
+
+Build with `cargo build --release` or inspect options with `cargo run -- --help`. Network login requires your own authorized credentials and access to the campus network.
+
+## Author
+
+Fork author and maintainer: [rajivranjanmars](https://rajivranjana.in).
+
+Upstream authors, contributors, licenses, and existing project credits are retained.
