@@ -77,6 +77,6 @@ Build with `cargo build --release` or inspect options with `cargo run -- --help`
 
 ## Author
 
-Fork author and maintainer: [rajivranjanmars](https://rajivranjana.in).
+Fork author and maintainer: [Rajiv Ranjan](https://rajivranjan.in).
 
 Upstream authors, contributors, licenses, and existing project credits are retained.
